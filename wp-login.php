@@ -7,7 +7,7 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Acessar &lsaquo; rodrigues-francisco &#8212; WordPress</title>
+	<title>Acessar &lsaquo; Francisco Rodrigues &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' id='dashicons-css'  href='https://rodriguesfrancisco.github.io/wp-includes/css/dashicons.min.css?ver=5.4' type='text/css' media='all' />
 <link rel='stylesheet' id='buttons-css'  href='https://rodriguesfrancisco.github.io/wp-includes/css/buttons.min.css?ver=5.4' type='text/css' media='all' />
@@ -56,7 +56,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog"><a href="https://rodriguesfrancisco.github.io/">
-		&larr; Voltar para rodrigues-francisco		</a></p>
+		&larr; Voltar para Francisco Rodrigues		</a></p>
 			</div>
 	<script type='text/javascript' src='https://rodriguesfrancisco.github.io/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script type='text/javascript' src='https://rodriguesfrancisco.github.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
