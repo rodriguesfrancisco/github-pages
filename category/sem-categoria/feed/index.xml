@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sem categoria &#8211; rodrigues-francisco</title>
+	<atom:link href="https://rodriguesfrancisco.github.io/category/sem-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rodriguesfrancisco.github.io</link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Sat, 11 Apr 2020 20:56:11 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Olá, mundo!</title>
+		<link>https://rodriguesfrancisco.github.io/2020/04/11/ola-mundo/</link>
+					<comments>https://rodriguesfrancisco.github.io/2020/04/11/ola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[rodriguesfrancisco]]></dc:creator>
+		<pubDate>Sat, 11 Apr 2020 20:56:11 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">https://rodriguesfrancisco.github.io/?p=1</guid>
+
+					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
+										<content:encoded><![CDATA[
+<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rodriguesfrancisco.github.io/2020/04/11/ola-mundo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
